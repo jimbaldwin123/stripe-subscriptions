@@ -25,6 +25,7 @@ env
 # PHP files
 vendor
 logs
+.idea
 
 # Java files
 .settings
